@@ -1,0 +1,32 @@
+,item,commod,sell_price,demand,system,ly,station,ls,faction,allegiance,state,margin,supply
+1,Water,271,661,1069,Alpha Centauri,9.63691429802611,Hutton Orbital,6783760,Hutton Orbital Truckers Co-Operative,Independent,Boom,610,221528
+2,Water,271,661,1069,Alpha Centauri,9.63691429802611,Hutton Orbital,6783759,Hutton Orbital Truckers Co-Operative,Independent,Boom,610,221528
+3,Water,271,661,1069,Alpha Centauri,9.63691429802611,Hutton Orbital,6783758,Hutton Orbital Truckers Co-Operative,Independent,Boom,610,221528
+4,Tea,21,2158,1263,Ross 154,8.93602479083961,Birkeland City,13,Barnard's Star Advanced Corp.,Federation,Civil War,479,9718
+5,Tea,21,2158,1263,Ross 154,8.93602479083961,Birkeland City,12,Barnard's Star Advanced Corp.,Federation,Civil War,479,9718
+6,Tea,21,2158,1263,Ross 154,8.93602479083961,Birkeland City,13,Barnard's Star Advanced Corp.,Federation,Civil War,479,9718
+7,Water,271,652,771,Epsilon Indi,0.0,King Silo,143,People's Epsilon Indi Progressive Party,Federation,None,601,221528
+8,Water,271,714,807,Alpha Centauri,9.63691429802611,Hutton Orbital,6783753,Hutton Orbital Truckers Co-Operative,Independent,None,663,221528
+9,Water,271,652,771,Epsilon Indi,0.0,King Silo,143,People's Epsilon Indi Progressive Party,Federation,Civil Unrest,601,221528
+10,Tea,21,2158,1263,Ross 154,8.93602479083961,Birkeland City,13,Barnard's Star Advanced Corp.,Federation,Civil War,921,83768
+11,Beer,8,891,4310,La Rochelle,4.83971606217762,Shaver Dock,132,Lacaille 8760 Allied Corp.,Federation,War,750,259
+12,Beer,8,891,1952,La Rochelle,4.83971606217762,Wait Colburn Vision,1754,Lacaille 8760 Allied Corp.,Federation,None,750,259
+13,Mineral Oil,3,1439,100995,WISE 0855-0714,9.09342782934466,Yamazaki Landing,841,Hutton Orbital Truckers Co-Operative,Independent,Expansion,1242,4364
+14,Grain,19,2736,2600,LHS 3531,10.071667020037,Jones Landing,231,Narenses Organisation,Federation,Famine,2495,55424
+15,Grain,19,2736,2600,LHS 3531,10.071667020037,Jones Landing,197,Narenses Organisation,Federation,Famine,2495,55424
+16,Grain,19,2736,2600,LHS 3531,10.071667020037,Jones Landing,253,Narenses Organisation,Federation,Famine,2599,4263358
+17,Mineral Oil,3,1439,100995,WISE 0855-0714,9.09342782934466,Yamazaki Landing,841,Hutton Orbital Truckers Co-Operative,Independent,Expansion,1267,77706
+18,Mineral Oil,3,1439,100995,WISE 0855-0714,9.09342782934466,Yamazaki Landing,841,Hutton Orbital Truckers Co-Operative,Independent,Expansion,1267,77713
+19,Mineral Oil,3,1439,100995,WISE 0855-0714,9.09342782934466,Yamazaki Landing,841,Hutton Orbital Truckers Co-Operative,Independent,Expansion,1267,77713
+20,Tea,21,2179,417,Alpha Centauri,9.63691429802611,Hutton Orbital,6783748,Hutton Orbital Truckers Co-Operative,Independent,None,942,151175
+21,Tea,21,2161,508,Alpha Centauri,9.63691429802611,Hutton Orbital,6783748,Hutton Orbital Truckers Co-Operative,Independent,Civil Unrest,939,151175
+22,Grain,19,778,605,Luyten 347-14,9.82214891838848,Gerrold Prospect,39,Luyten 347-14 Confederation,Federation,Boom,537,55597
+23,Grain,19,778,605,Luyten 347-14,9.82214891838848,Gerrold Prospect,39,Luyten 347-14 Confederation,Federation,Boom,537,55597
+24,Grain,19,778,605,Luyten 347-14,9.82214891838848,Gerrold Prospect,39,Luyten 347-14 Confederation,Federation,Boom,537,55597
+25,Grain,19,778,605,Luyten 347-14,9.82214891838848,Gerrold Prospect,39,Luyten 347-14 Confederation,Federation,Boom,537,55597
+26,Grain,19,3072,6788250,YZ Ceti,10.6474487114285,Clement Orbital,1214,YZ Ceti Blue Galactic & Co,Federation,Famine,2935,4276648
+27,Water,271,1742,42138,YZ Ceti,10.6474487114285,Clement Orbital,1214,YZ Ceti Blue Galactic & Co,Federation,Famine,1688,1779
+28,Water,271,1742,42138,YZ Ceti,10.6474487114285,Clement Orbital,1215,YZ Ceti Blue Galactic & Co,Federation,Famine,1688,1779
+29,Beer,8,896,2456,LHS 449,9.89046455241107,Fisher Point,33,Sol Workers' Party,Federation,War,768,328
+30,Tea,21,2229,507,Ross 154,8.93602479083961,Elder Works,1501,Labour of 70 Ophiuchi,Federation,None,992,85026
+31,Tea,21,2159,701,Ross 154,8.93602479083961,Elder Works,1501,Labour of 70 Ophiuchi,Federation,Boom,922,151175
