@@ -1,5 +1,5 @@
 # EliteDang-route-optimization
-Optimizing route efficiency using the game *Elite: Dangerous* 
+Using the market of the game *Elite: Dangerous* to calculate optimized trading and transportation routes 
 
 ## Intro to *Elite: Dangerous*
 *Elite: Dangerous* is the latest venture in the *Elite* game series that first debuted all the way back in 1984, when David Braben and Ian Bell designed the original *Elite*, a seminal work that came to define the space simulation genre. There, you started out with a small ship and a handful of credits, leaving you to decide how to make your way forward, be it through trading, mining, piracy, or bounty hunting. Braben would go on to found Frontier Developments, which still develops *Elite: Dangerous* and the *Elite* series to this very day. Even nearly 35 years later, while the graphics have improved drastically from the simple polygonal 3D wireframe models, the basis of the gameplay remains largely the same - you explore, fight and trade your way towards better ranks and better equipment as you fly through the galaxy.
